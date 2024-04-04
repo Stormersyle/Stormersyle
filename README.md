@@ -1,4 +1,4 @@
-### Hi!
+### Hello!
 
 <!--
 **Stormersyle/Stormersyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrew, a student a MIT studying math and computer science. As you can see, my GitHub is kind of empty right now, but it'll fill up over the coming months as I work on more projects :)
+I'm Andrew, a student at MIT studying math and computer science. As you can see, my GitHub is kind of empty right now, but it'll fill up over the coming months as I work on more projects :)
