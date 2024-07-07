@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrew, a student at MIT studying math and computer science. As you can see, my GitHub is kind of empty right now, but it'll fill up over the coming months as I work on more projects :)
+I'm Andrew, a student at MIT studying math and computer science. 
